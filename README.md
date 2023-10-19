@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @ascemek, A. Sami Cemek.<br>👀 I’m interested in 3D Unity game/simulation development and coding in general.<br>📖 I’m currently learning Front End Web Design and Development & R for Data Science.<br>💻 I’m looking to collaborate on projects that I can improve myself in Python, Java, C#, R, Unity etc.<br>📫 How to reach me: email me at ahmet.cemek24@ncf.edu
+👋 Hi, I’m @ascemek, A. Sami Cemek.<br>👀 I’m interested in software development and coding in general.<br>📖 I’m currently learning a few web frame works such as React.<br>💻 I’m looking to collaborate on projects that I can improve myself in Python, Java, JavaScript etc.<br>📫 How to reach me: email me at ahmet.cemek24@ncf.edu
 
 
 ## 🌐 Socials:
